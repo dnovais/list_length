@@ -1,6 +1,12 @@
 # ListLength
 
-**TODO: Add description**
+List Length is a challenge code from RocketSeat - Ignite - Elixir to count elements in a list with recurvise approach.
+
+## Running test
+
+```elixir
+mix test
+```
 
 ## Installation
 
